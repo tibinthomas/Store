@@ -424,7 +424,6 @@
     <Content Include="images\11.jpg" />
     <Content Include="images\12.jpg" />
     <Content Include="images\13.jpg" />
-    <Content Include="images\14.jpg" />
     <Content Include="images\15.jpg" />
     <Content Include="images\16.jpg" />
     <Content Include="images\17.jpg" />
@@ -505,10 +504,8 @@
     <Content Include="images\t6.png" />
     <Content Include="images\t7.png" />
     <Content Include="images\tb1.jpg" />
-    <Content Include="images\tb2.jpg" />
     <Content Include="images\tb3.jpg" />
     <Content Include="images\tb4.jpg" />
-    <Content Include="images\tb5.jpg" />
     <Content Include="js\bootstrap-3.1.1.min.js" />
     <Content Include="js\easyResponsiveTabs.js" />
     <Content Include="js\imagezoom.js" />
